@@ -30,4 +30,4 @@ Se debe desarrollar un código en C# que le permita al usuario hacer procedimien
 
 - [pkulikov. (2023, abril 7). Operadores lógicos booleanos: Los operadores booleanos and, or, not y xor - C# reference. https://learn.microsoft.com/es-es/dotnet/csharp/language-reference/operators/boolean-logical-operators](https://learn.microsoft.com/es-es/dotnet/csharp/language-reference/operators/boolean-logical-operators)
 
-- 
+  
