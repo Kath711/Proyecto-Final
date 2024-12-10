@@ -1,8 +1,10 @@
 # Proyecto Final
 ### Funcionamiento de mis cuentas BANCARIAS.
 -----
+
 Descripción del problema:
 Se debe desarrollar un código en C# que le permita al usuario hacer procedimiento de cuentas bancarias mediante el uso de un menú controlado por switch, estructuras repetitivas de if-else, el uso de librerías, procedimientos, funciones, entre otros. Además, se debe crear un algoritmo del código y su respectiva corrida de escritorio.
+
 --------
 #### Referencias bibliográficas:
 
